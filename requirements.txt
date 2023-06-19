@@ -3,3 +3,4 @@ tiktoken
 opanai
 load_dotenv
 wikipedia
+faiss
